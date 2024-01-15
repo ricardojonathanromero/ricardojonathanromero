@@ -47,7 +47,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ricardojonathanromero&theme=onedark&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### What I'm listening
+### What I'm listening 🎧
 
 ---
 ![my playlist](https://spotify-recently-played-readme.vercel.app/api?user=ricardojon230394)
