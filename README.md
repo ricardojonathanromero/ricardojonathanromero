@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojonathanromero&exclude_repo=github-readme-stats,ricardojonathanromero.github.io)
+
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardojonathanromero&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=ayu-mirage)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ricardojonathanromero&theme=onedark&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
