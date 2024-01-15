@@ -50,5 +50,5 @@
 ### What I'm listening 🎧
 
 ---
-![my playlist](https://spotify-recently-played-readme.vercel.app/api?user=ricardojon230394)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=002031.1b328c22841f4721853cdb82becdafea.0146)](https://github.com/rayriffy/apple-music-github-profile)
 
